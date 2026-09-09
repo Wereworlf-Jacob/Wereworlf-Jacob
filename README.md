@@ -28,6 +28,6 @@ Senior Java Engineer transitioning into AI application development. Exploring AI
 
 ## Contact
 
-- 📫 Email: `your-email@example.com`
-- 💼 LinkedIn: `your-linkedin-url`
-- 🌐 Blog: `your-blog-url`
+- 📫 Email: `ssw68.kube@gmail.com`
+- 💼 LinkedIn: `None`
+- 🌐 Blog: `None`
